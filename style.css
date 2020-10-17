@@ -1,0 +1,12 @@
+input{
+    /* max-width: 200px; */
+    display: block;
+    margin-bottom: 20px;
+}
+#sec1, #sec2{
+    padding-bottom: 50px;
+
+}
+h2{
+    padding-bottom: 30px;
+}
